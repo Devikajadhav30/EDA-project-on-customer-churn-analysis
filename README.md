@@ -2,7 +2,7 @@
 
 **Project Overview**
 This project performs Exploratory Data Analysis (EDA) on a telecom customer churn dataset to understand customer retention, service usage, and key factors influencing churn rates. The analysis helps in identifying patterns and trends that affect customer decisions, allowing businesses to take strategic actions.
-
+_______________________________________________________________________________________________________________________________________________________________________
 **Goals of the Project**
 
 •	Explore the telecom dataset using Pandas and NumPy.
